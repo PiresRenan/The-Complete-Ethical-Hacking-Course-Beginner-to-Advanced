@@ -1,0 +1,17 @@
+Termos usados:
+	White Hat = Hackers que são éticos, ou seja, os que agem dentro da lei.
+	Grey Hat = Hackers que vivem a margem do legal e o ilegal.
+	Black Hat = Hackers que vivem no ilegal, agem sem qualquer respeito pela lei.
+	Footprinting = coleta de informações do alvo.
+	DoS = "Denial of Service", também chamado de "Childish Attacks", são ataques fáceis de implementar.Executa uma quantidade de solicitações ao servidor que começa a perder conexões.
+	DDos = Mesma coisa que o anterior, porém com mais maquinas fazendo o ataque de maneira simultanea. Dificl de se previnir e normalmente necessita de interação fisica para interromper o ataque.
+	FUD = são programas que são indetectaveis por antivirus.
+	RATS = "Remote Admnistration Tools", uma maneira de escravizar o computador.
+	Root Kit = uma ferramenta instalada no OS que esconde os programas rodando.
+	Fishing = aplicar uma armadilha pra que alguém rode algo.
+	SQL Injections = Enviar codigos para o banco de dados de sites vulneraveis, oque pode causar um dano grande por mal formatação de query.
+	VPN = "Virtual Private Networks", são redes anonimas.
+	Proxy = São menos anonimos.
+	TOR = ...
+	VPS = "Virtual Private Servers", é uma camada de segurança que servirpa como MySQl server.
+	Key Loggers = são ferramentas usadas pra roubar credenciais.
